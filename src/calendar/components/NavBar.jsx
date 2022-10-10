@@ -10,7 +10,7 @@ export const NavBar = () => {
                 </i>
             </span>
 
-            <button className='btn btn-outline-danger'>
+            <button className='btn btn-outline-primary'>
                 <i className='fas fa-sign-out-alt'></i>
                 <span >Salir</span>
             </button>
